@@ -1,0 +1,11 @@
+haystack-ai 
+transformers 
+bitsandbytes==0.39.0
+accelerate
+sentence_transformers 
+langchain_community 
+langchain 
+pypdf
+streamlit
+IPython
+beautifulsoup4
